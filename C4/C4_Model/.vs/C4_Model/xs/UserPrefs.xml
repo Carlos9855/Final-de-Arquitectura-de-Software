@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{97CC737F-F2C3-44A9-AD1D-E6CEE0E5437D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="C4_Model" expanded="True">
+            <Node name="C4_Model" expanded="True">
+              <Node name="BusinessLogicLayer" expanded="True">
+                <Node name="Models" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="DataAccessLayer" expanded="True">
+                <Node name="Data" expanded="True">
+                  <Node name="Repository" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="REST Layer" expanded="True">
+                <Node name="Controllers" expanded="True">
+                  <Node name="OrdersController.cs" selected="True" />
+                </Node>
+                <Node name="Exceptions" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.C4__Model PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

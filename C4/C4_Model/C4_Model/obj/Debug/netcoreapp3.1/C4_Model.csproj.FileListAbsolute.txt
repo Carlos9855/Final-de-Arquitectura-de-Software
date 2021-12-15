@@ -1,0 +1,45 @@
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.csprojAssemblyReference.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.AssemblyInfoInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.AssemblyInfo.cs
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.csproj.CoreCompileInputs.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.MvcApplicationPartsAssemblyInfo.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/C4_Model.deps.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/C4_Model.runtimeconfig.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/C4_Model.runtimeconfig.dev.json
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/C4_Model.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/C4_Model.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/AutoMapper.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/bin/Debug/netcoreapp3.1/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/staticwebassets/C4_Model.StaticWebAssets.Manifest.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/staticwebassets/C4_Model.StaticWebAssets.xml
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/scopedcss/bundle/C4_Model.styles.css
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.RazorTargetAssemblyInfo.cache
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.csproj.CopyComplete
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.dll
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.pdb
+/Users/ricky/Desktop/UCB/8._Octavo_Semestre/Arqui_Soft/repo_C4/C4_Model/C4_Model/obj/Debug/netcoreapp3.1/C4_Model.genruntimeconfig.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.exe
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.deps.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.runtimeconfig.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.runtimeconfig.dev.json
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\C4_Model.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.csproj.AssemblyReference.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.AssemblyInfoInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.AssemblyInfo.cs
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.csproj.CoreCompileInputs.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\staticwebassets\C4_Model.StaticWebAssets.Manifest.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\staticwebassets\C4_Model.StaticWebAssets.xml
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\scopedcss\bundle\C4_Model.styles.css
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.RazorTargetAssemblyInfo.cache
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.csproj.CopyComplete
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.dll
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.pdb
+C:\Users\josec\Documents\UCB\Arquitectura de Software\C4\C4_Model\C4_Model\obj\Debug\netcoreapp3.1\C4_Model.genruntimeconfig.cache
